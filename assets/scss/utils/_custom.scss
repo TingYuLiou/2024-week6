@@ -1,0 +1,31 @@
+:root{
+//primary color
+--primary-100 : #FFFDF5;
+--primary-200 : #FFFBE5;
+--primary-300 : #E8E3DA;
+--primary-400 : #6E6B67; 
+
+//accent color
+--accent-100 : #E0EFDE ;
+--accent-200 : #569573;
+--accent-300 : #406C55 ;
+
+//gray color
+--gray-100: #f8f9fa;
+--gray-200: #dee2e6;
+--gray-300: #ced4da ;
+--gray-400: #6c757d;
+--gray-500: #343a40;
+--gray-600: #212529;
+
+//special color
+--info : #4A72FF; 
+--success : #2CC585; 
+--warning : #FFB054; 
+--danger : #D65F5F; 
+
+//border-radius
+--rounded-sm : 4px; 
+--rounded : 12px; 
+--rounded-lg : 20px; 
+}
